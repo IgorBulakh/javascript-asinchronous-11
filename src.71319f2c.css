@@ -1,2 +1,2 @@
 html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{display:flex;justify-content:center;align-items:center}button{margin:80px 15px 0;padding:30px 50px;font-size:20px;font-weight:700;color:grey;box-shadow:1px 1px 6px 2px rgba(0,0,0,.7);cursor:pointer;border:none;outline:none;border-radius:14px}.btn__start:hover,.btn__stop:hover{color:#af7ac5}.btn__start:hover{box-shadow:1px 1px 19px 2px rgba(0,252,0,.7)}.btn__stop:hover{box-shadow:1px 1px 19px 2px rgba(252,0,0,.7)}
-/*# sourceMappingURL=/parcel-project-template/src.71319f2c.css.map */
+/*# sourceMappingURL=/javascript-asinchronous-colors_11/src.71319f2c.css.map */

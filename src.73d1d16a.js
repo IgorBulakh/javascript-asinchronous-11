@@ -5,4 +5,4 @@ const t={startRef:document.querySelector(".btn__start"),stopRef:document.querySe
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/main.js");
 },{"./sass/main.scss":"clu1","./js/main.js":"d6sW"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.73d1d16a.js.map
+//# sourceMappingURL=/javascript-asinchronous-colors_11/src.73d1d16a.js.map
